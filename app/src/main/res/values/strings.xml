@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpotFinder - GTA Locations</string>
+    <!-- Replace with your actual Google Maps API key -->
+    <string name="google_maps_key">REDACTED_FOR_SAFETY_PLEASE_USE_YOUR_OWN_API</string>
+</resources>
